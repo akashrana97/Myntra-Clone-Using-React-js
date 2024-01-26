@@ -11,6 +11,7 @@ const itemSlice = createSlice({
     }
 });
 
+console.log("-------")
 export const itemActions = itemSlice.actions;
 
 export default itemSlice;
