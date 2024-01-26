@@ -13,9 +13,6 @@ const bagSlice = createSlice({
     }
 });
 
-console.log("Hello1");
-
-
 export const bagActions = bagSlice.actions;
 
 export default bagSlice;
