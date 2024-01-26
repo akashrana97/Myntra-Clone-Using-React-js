@@ -12,7 +12,7 @@ const itemSlice = createSlice({
 });
 
 console.log("-------")
-console.log("-------")
+console.log("-------12154")
 export const itemActions = itemSlice.actions;
 
 export default itemSlice;
