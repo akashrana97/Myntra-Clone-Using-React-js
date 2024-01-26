@@ -19,6 +19,8 @@ const fetchStatusSlice = createSlice({
   }
 });
 
+console.log("Hello1");
+
 export const fetchStatusActions = fetchStatusSlice.actions;
 
 export default fetchStatusSlice;

@@ -26,7 +26,6 @@ const router = createBrowserRouter([
   },
 ]);
 
-console.log("Hello");
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

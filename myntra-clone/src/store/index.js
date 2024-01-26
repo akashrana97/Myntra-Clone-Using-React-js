@@ -11,4 +11,6 @@ const myntraStore = configureStore({
     }
 });
 
+console.log("Hello1");
+
 export default myntraStore;
